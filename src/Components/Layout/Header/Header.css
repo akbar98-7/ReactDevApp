@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.navbar {
+    background: wheat;
+  }
+
+.nav-link, .navbar-brand {
+    color: black;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.nav-link {
+    margin-right: 1rem ;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.navbar-collapse {
+    justify-content: flex-end;
+    
+}
+
+.button {
+  margin-right: 1rem;
+}

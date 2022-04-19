@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+}
+
+.features {
+    margin: 4em auto;
+    padding: 1em;
+    position: relative;
+}
+
+.feature-title {
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    position: relative;
+
+
+}
+
+.row {
+    width: 95%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.features.img {
+    margin-bottom: 25px;
+}

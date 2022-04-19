@@ -1,0 +1,32 @@
+.banner {
+    background-image: url(/public/Images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 30vh;
+}
+
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    
+}
+
+.description {
+    
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    right: 20px;
+    left: 5%;
+    
+}
+
+.description h1 {
+    color: chartreuse;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}

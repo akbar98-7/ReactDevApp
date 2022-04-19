@@ -1,0 +1,12 @@
+h1.thin {
+    border-bottom: 1px solid blue;
+    box-shadow: 0 1px 0 red;
+    width: 95%;
+    margin: auto;
+    text-align: center;
+}
+
+p.center1 {
+    width: 95%;
+    margin: auto;
+}

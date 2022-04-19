@@ -1,0 +1,37 @@
+.right-side{
+    width: 75%;
+    margin-left: 75px;
+  }
+
+.right-side .topic-text{
+    font-size: 23px;
+    font-weight: 600;
+    color: #3e2093;
+}
+
+.right-side .input-box{
+    height: 50px;
+    width: 100%;
+    margin: 12px 0;
+  }
+  
+.right-side .input-box input,
+.right-side .input-box textarea{
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background: #F0F1F8;
+    border-radius: 6px;
+    padding: 0 15px;
+    resize: none;
+  }
+
+.right-side .message-box{
+    min-height: 110px;
+  }
+
+.right-side .input-box textarea{
+    padding-top: 6px;
+  }
