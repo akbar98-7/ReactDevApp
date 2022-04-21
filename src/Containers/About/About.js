@@ -23,13 +23,13 @@ export default function About() {
         <h2>Akbar Mirza</h2>  
         <p>CEO & Founder</p>
 
-
         <CustomButton></CustomButton>
 
         
 
         
         </div>
+        
 
         <div class="col-lg-4 col-md-4 col-sm-6">
         <img src="./Images/team2.jpg" className='img-fluid' alt="Teampics" width={400} />
@@ -65,8 +65,10 @@ export default function About() {
 
 
         </div>
+        
 
     </div>
+   
 
     <br></br>
 
